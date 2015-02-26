@@ -6,5 +6,6 @@
     <string name="action_settings">Settings</string>
     <string name="str_button_news">Visualizza le notizie</string>
     <string name="str_button_courses">Visualizza i corsi</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
