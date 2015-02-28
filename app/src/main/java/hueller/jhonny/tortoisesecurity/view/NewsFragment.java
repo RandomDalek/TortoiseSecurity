@@ -31,7 +31,6 @@ public class NewsFragment extends Fragment implements ListView.OnItemClickListen
 
     private FragmentCommunicator myCommunicator;
     private String tag="TortoiseSecurity";
-
     /**
      * The fragment's ListView/GridView.
      */

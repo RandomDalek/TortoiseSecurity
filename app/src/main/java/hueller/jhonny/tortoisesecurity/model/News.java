@@ -5,11 +5,17 @@ import java.util.Date;
 /**
  * Created by jhonny on 25/02/15.
  */
-public class news {
+public class News {
     private int id;
     private Date date;
     private String title;
     private String text;
+
+    public News(Date date, String title, String text) {
+        this.date = date;
+        this.title = title;
+        this.text = text;
+    }
 
     public int getId() {
         return id;

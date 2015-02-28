@@ -8,4 +8,6 @@ public interface FragmentCommunicator {
     public void watchNews();
     public void watchCourses();
     public void lockOutTheNemesis();
+    public void loadNews();
+    public void loadCourses();
 }
